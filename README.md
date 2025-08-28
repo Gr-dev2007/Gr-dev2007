@@ -9,7 +9,7 @@ Me destaco pela <b>proatividade, raciocínio lógico, organização</b> e vontad
 
 ---
 
-### 🌐 Minhas redes:
+### 🌐 MINHAS REDES:
 <div>
   <a href="https://www.linkedin.com/in/guilherme2007/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -21,7 +21,7 @@ Me destaco pela <b>proatividade, raciocínio lógico, organização</b> e vontad
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GITHUB STATS:
 <div align="center">
   <table>
     <tr>
@@ -37,7 +37,7 @@ Me destaco pela <b>proatividade, raciocínio lógico, organização</b> e vontad
 
 ---
 
-### 💻 Tecnologias e Ferramentas:
+### 💻  MEUS CONHECIMENTOS:
 <div align="center">
   <!-- Linguagens que já sabe -->
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
