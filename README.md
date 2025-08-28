@@ -1,8 +1,12 @@
 ## Olá, meu nome é Guilherme Pereira! 👋  
+
 <p>
-🎓 Estudante de **Sistemas de Informação** e Técnico em **Informática para Internet** pela ETEC.  
-Focado em **back-end** com Python, PHP, MySQL e JavaScript, em busca de estágio para aplicar e expandir conhecimentos.  
+Sou estudante de <b>Sistemas de Informação</b> na Universidade São Judas e formado como <b>Técnico em Informática para Internet</b> pela ETEC Parque Belém.  
+Tenho experiência com <b>HTML, CSS, PHP e MySQL</b>, além de estar expandindo meus conhecimentos em <b>Python, JavaScript e Node.js</b>.  
+Busco uma oportunidade como <b>estagiário ou desenvolvedor júnior back-end</b>, aplicando minhas habilidades técnicas, aprendendo novas tecnologias e contribuindo em projetos reais.  
+Me destaco pela <b>proatividade, raciocínio lógico, organização</b> e vontade constante de evoluir na área de tecnologia.  
 </p>
+
 ---
 
 ### 🌐 Minhas redes:
@@ -17,7 +21,7 @@ Focado em **back-end** com Python, PHP, MySQL e JavaScript, em busca de estágio
 
 ---
 
-### 📊 GITHUB STATS:
+### 📊 GitHub Stats:
 <div align="center">
   <table>
     <tr>
@@ -33,7 +37,7 @@ Focado em **back-end** com Python, PHP, MySQL e JavaScript, em busca de estágio
 
 ---
 
-### 💻 MEUS CONHECIMENTOS:
+### 💻 Tecnologias e Ferramentas:
 <div align="center">
   <!-- Linguagens que já sabe -->
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
