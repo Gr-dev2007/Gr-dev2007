@@ -1,8 +1,8 @@
 ## Olá, meu nome é Guilherme Pereira! 👋  
-<sub>
+<p>
 🎓 Estudante de **Sistemas de Informação** e Técnico em **Informática para Internet** pela ETEC.  
 Focado em **back-end** com Python, PHP, MySQL e JavaScript, em busca de estágio para aplicar e expandir conhecimentos.  
-</sub>
+</p>
 ---
 
 ### 🌐 Minhas redes:
