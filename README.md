@@ -1,5 +1,5 @@
 ## Olá, meu nome é Guilherme Pereira! 👋  
-Sou estudante de Sistemas de Informação na Universidade São Judas e formado como Técnico em Informática para Internet pela ETEC Parque Belém. Durante minha formação, adquiri experiência prática no desenvolvimento de sistemas web utilizando HTML, CSS, PHP e MySQL, além de ter iniciado meus estudos em Python e JavaScript, com foco em aplicações back-end e integração de APIs. Tenho interesse em atuar como desenvolvedor júnior ou estagiário na área de desenvolvimento back-end, onde possa aplicar meus conhecimentos, colaborar em projetos reais e aprimorar minhas habilidades em tecnologias modernas como Node.js, Git/GitHub, Linux e Windows Server. Busco constantemente aprendizado contínuo e me destaco pela capacidade de adaptação, proatividade e boa comunicação em equipe.
+Estudante de Sistemas de Informação na Universidade São Judas e formado como Técnico em Informática para Internet pela ETEC. Tenho experiência em HTML, CSS, PHP e MySQL, além de estar aprimorando meus conhecimentos em Python, JavaScript e Node.js. Busco uma oportunidade como estagiário ou desenvolvedor júnior back-end, aplicando meus conhecimentos e evoluindo em projetos reais.
 ---
 
 ### 🌐 Minhas redes:
