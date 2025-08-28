@@ -1,5 +1,8 @@
 ## Olá, meu nome é Guilherme Pereira! 👋  
-Estudante de Sistemas de Informação na Universidade São Judas e formado como Técnico em Informática para Internet pela ETEC. Tenho experiência em HTML, CSS, PHP e MySQL, além de estar aprimorando meus conhecimentos em Python, JavaScript e Node.js. Busco uma oportunidade como estagiário ou desenvolvedor júnior back-end, aplicando meus conhecimentos e evoluindo em projetos reais.
+<sub>
+🎓 Estudante de **Sistemas de Informação** e Técnico em **Informática para Internet** pela ETEC.  
+Focado em **back-end** com Python, PHP, MySQL e JavaScript, em busca de estágio para aplicar e expandir conhecimentos.  
+</sub>
 ---
 
 ### 🌐 Minhas redes:
